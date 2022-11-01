@@ -1,0 +1,1 @@
+# copyTextAndStore_chromeExtention
